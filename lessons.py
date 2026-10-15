@@ -72,3 +72,10 @@
 # }
 #
 # print(a.get("name1", "Yoq key chaqirdiz"))
+
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
