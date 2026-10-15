@@ -74,6 +74,14 @@
 # print(a.get("name1", "Yoq key chaqirdiz"))
 
 
+
 print("Hello world")
 print("Hello world")
 print("Hello world")
+
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
+print("hello world")
