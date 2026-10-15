@@ -254,3 +254,4 @@
 # print(f"Sizdan {chek} sum boldi")
 
 
+print("hello world")
